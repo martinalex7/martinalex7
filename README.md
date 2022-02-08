@@ -1,4 +1,6 @@
-### Hi there 👋
+# Martin Alexandre
+
+Student at *ENSAE Paris*. Former *Lycée Privé Sainte Geneviève* student. 
 
 <!--
 **martinalex7/martinalex7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
