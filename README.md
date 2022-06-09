@@ -1,6 +1,6 @@
 # Martin Alexandre
 
-Student at *Columbia University's M.S. in Data Science*. Former *ENSAE Paris* & *Lycée Privé Sainte Geneviève* student. 
+Student in *Columbia University's M.S. in Data Science*. Former *ENSAE Paris* & *Lycée Privé Sainte Geneviève* student. 
 
 <!--
 **martinalex7/martinalex7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
